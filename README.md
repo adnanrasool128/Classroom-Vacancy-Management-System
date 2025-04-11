@@ -37,7 +37,7 @@ git clone https://github.com/adnanrasool128/Classroom-Vacancy-Management-System.
 
 2️⃣ **Navigate to the Project Directory:**
 ```bash
-cd Minor-Project-1
+cd Classroom Vacancy Management System
 ```
 
 3️⃣ **Configure the Project:**
@@ -87,7 +87,7 @@ git push origin feature-name
 ---
 ## 📬 Contact
 For any questions or feedback, feel free to reach out:
-- **GitHub:** [Aditya5757raj](https://github.com/adnanrasool128)
+- **GitHub:** [adnanrasool128](https://github.com/adnanrasool128)
 
 ---
 ## 📜 License
